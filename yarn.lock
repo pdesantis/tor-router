@@ -12,10 +12,9 @@
   resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.4.5.tgz#04af8d5d5a2b044a2a1bffacc1e5e6673544e872"
   integrity sha512-9mUqkL1FF5T7f0WDFfAoDdiMVPWsdD1gZYzSnaXsxUCUqzuch/8of9G3VUSNiZmMBoRxT3neyVsqeiL/ZPcjew==
 
-"@deadcanaries/granax@^3.1.4":
+"@deadcanaries/granax@https://gitlab.com/pdesantis/granax.git":
   version "3.2.4"
-  resolved "https://registry.yarnpkg.com/@deadcanaries/granax/-/granax-3.2.4.tgz#a961c618f2c85b9c412a107bba2225844bbbd6ca"
-  integrity sha512-2R/OUWeTlx6/2HVAeCtViKZHoQvD8YSKa/sVHc24itbNUGZ/StDbfwVE82/IvqNmY7Du7M1CsCDKYteGxkcNcQ==
+  resolved "https://gitlab.com/pdesantis/granax.git#9e391dd1872b74f1ae81dca6ced82db9c6b7aafe"
   dependencies:
     async "^2.3.0"
     latest-torbrowser-version "^2.0.2"
